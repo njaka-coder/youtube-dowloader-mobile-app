@@ -1,0 +1,12 @@
+# Environnements Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Buildozer
+.buildozer/
+bin/
+
+# OS
+.DS_Store
