@@ -1,6 +1,6 @@
 # Environnements Python
 venv/
-.venv/
+.venv-mobile/
 __pycache__/
 *.pyc
 downloads/
